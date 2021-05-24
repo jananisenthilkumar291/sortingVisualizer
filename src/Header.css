@@ -1,0 +1,12 @@
+.Header{
+    background-color:rgb(100, 220, 236);
+    height : 40px;
+    width:100%;
+    border:5px solid rgb(108, 214, 247);
+    color:white;
+    padding:2px;
+}
+.Logo{
+    font-family:times New Roman;
+    margin:1px;
+}

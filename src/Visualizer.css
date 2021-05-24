@@ -1,0 +1,18 @@
+.array-container{
+    position:absolute;
+    left  :50px;
+    width:100%;
+}
+.array-bar{
+    width:2px;
+    background-color: rgb(192, 209, 255);
+    display : inline-block;
+    margin:0 1px;
+    border-radius: 50%;
+}
+.chooseButton{
+    background: transparent;
+    border:0px;
+    height:15%;
+    width:15%;
+}
